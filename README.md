@@ -77,6 +77,7 @@ src
 1. Склонируйте репозиторий проекта:
 
    ```bash
-   git clone <URL-репозитория>
+   git clone https://github.com/panisimov812/testQa
 
 
+нажать на треугольник возле теста :)
