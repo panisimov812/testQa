@@ -22,7 +22,8 @@ public class TestBase {
 
         Configuration.baseUrl = "https://demoqa.com";
         Configuration.browser = "Firefox";
-        step("открывает textbox", () -> {
+        Configuration.browserSize =  "1920x1080";
+        step("открывает страницу /textbox", () -> {
             open("/text-box");
         });
     }
