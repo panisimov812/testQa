@@ -16,5 +16,4 @@ public class AlertSteps {
     public void agreeToAlert(){
         alertPage.agreeToAlertBtn();
     }
-
 }
